@@ -12,7 +12,7 @@ This repository hosts a machine learning (ML) project that uses the **Apples‑B
 
 * Source: Kaggle dataset by **sriramr** (“Apples‑Bananas‑Oranges”) ([Kaggle][1])
 * Contains images of three fruits: apples, bananas, and oranges. Dataset is often used in freshness / rotten classification tasks with six categories (fresh/rotten × three fruits) ([Kaggle][2]).
-* Common splits:
+* Common splits :
 
   * \~13,500 total images across training and testing sets.
   * Variants seen in other forks: approx. 10k–11k training and \~2.6k testing images ([GitHub][3], [GitHub][4]).
